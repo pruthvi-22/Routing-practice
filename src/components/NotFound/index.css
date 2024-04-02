@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.bcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  height: 70vh;
+}
+.image-container {
+  height: 300px;
+  width: 300px;
+}
+.heading {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 40px;
+}
